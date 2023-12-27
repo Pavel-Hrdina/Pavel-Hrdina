@@ -1,4 +1,4 @@
-### **A free spirit and a student**
+### **A free spirit**
 
 <br>
 
