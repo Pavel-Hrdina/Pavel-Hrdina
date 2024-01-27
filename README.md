@@ -1,5 +1,5 @@
 <div align="center">
-  <h3><bold>A free spirit</bold></h3>
+  <h3><bold>A Free Spirit</bold></h3>
 
   <br>
 
