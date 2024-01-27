@@ -1,5 +1,5 @@
 <div align="center">
-  ### **A free spirit**
+  <h3><bold>A free spirit</bold></h3>
 
   <br>
 
